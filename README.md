@@ -1,3 +1,1 @@
-# GenLayer
-
-Created for GenLayer quest.
+gh repo clone genlayerlabs/genlayer-project-boilerplate
